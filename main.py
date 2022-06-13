@@ -4,6 +4,7 @@ from ball import Ball
 from scoreboard import Scoreboard
 import time
 
+
 # initialize screen
 screen = Screen()
 screen.setup(width=800, height=600)
